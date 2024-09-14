@@ -1,15 +1,15 @@
 # SQL--Linkedin-data-claening-
 
-## PROJECT OVERVIEW
+PROJECT OVERVIEW
 
 This project focuses on cleaning and preprocessing LinkedIn job postings data using MySQL. The dataset contained various inconsistencies such as null values, duplicates, wrong formats and other standardizing issues. The goal was to ensure data quality and prepare the dataset for further analysis.
 
-## DATA CLEANING STEPS
+DATA CLEANING STEPS
 
-# Handling Null Values:
+Handling Null Values:
 
 Identified columns with null values.
-Populate data in the nulls here applicable
+Populate data in the nulls where applicable
 Dropped columns with null values where required.
 
 # Removing Duplicates:
